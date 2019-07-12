@@ -2,8 +2,9 @@
 
 
 pip install Twisted==16.0.0
-pip install service_identity)
-
+<br>
+pip install service_identity
+<br>
 To run the server:
 python ircd.py
 
